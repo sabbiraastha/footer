@@ -1,0 +1,86 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #7a8193;
+}
+
+/*header start*/
+.footer{
+width: 100%;
+background: #0f1314;
+padding: 30px 0 35px;
+}
+.footer h4{
+  text-transform: capitalize;
+  font-size: 16px;
+  color: #ffffff;
+}
+.footer ul{
+  margin: 0;
+  padding: 0;
+}
+.footer .s_icon  ul li{
+  width: 50px;
+  height: 50px;
+  background: #f5f5f5;
+  border-radius: 10px 0 10px 0;
+}
+.footer .s_icon ul li i{
+  color: grey;
+  padding: 15px 0 0 18px;
+}
+.footer .link a{
+  text-decoration: none;
+  color: #7a8193;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+.footer .link p{
+  font-size: 14px;
+}
+.footer input{
+  width: 100%;
+}
+.footer input::placeholder{
+
+}
+.footer button{
+  width: 100%;
+  background: #c49a12;
+  color: white;
+  font-weight: 600;
+  text-transform: capitalize;
+  border: none;
+  border-radius: 3px;
+  padding: 10px;
+}
+.header{
+  background: #23262f;
+  width: 100%;
+  padding: 15px 0 20px;
+}
+.h_icon ul{
+  padding: 0;
+  margin: 0;
+}
+.h_icon ul li{
+
+}
+.h_icon ul li a{
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #7a8193;
+  font-size: 14px;
+}
+.header h6{
+  text-align: end;
+  font-size: 14px;
+  color: #ffffff;
+}
