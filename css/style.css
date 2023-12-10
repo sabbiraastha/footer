@@ -47,6 +47,7 @@ padding: 30px 0 35px;
 }
 .footer input{
   width: 100%;
+  padding: 10px;
 }
 .footer input::placeholder{
 
@@ -60,6 +61,9 @@ padding: 30px 0 35px;
   border: none;
   border-radius: 3px;
   padding: 10px;
+}
+.footer .f_btn{
+ padding-top: 10px;
 }
 .header{
   background: #23262f;
